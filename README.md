@@ -1,6 +1,6 @@
 
 <h1 align="center" style="border-bottom: none;">Stocks Update</h1>
-<h3 align="center">Stocks price update after every 15 sec using Polygon api.We have used HTML, CSS, Javascript, Node.js, Mongoose and MongoDB to achieve this.</h3>
+<h3 align="center">Stocks Update you can select no. of stock you need and see price update after every 15 sec using Polygon api.We have used ReactJS,NodeJs, Bootstrap, HTML, CSS, Javascript, and polygon api to achieve this.</h3>
 
 # Technology We Used :computer: 
 
