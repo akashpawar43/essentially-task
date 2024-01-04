@@ -24,8 +24,11 @@ If you want to run the latest code from git, here's how to get started:
 
 <p>1.Clone the code:</p>
 
-        https://github.com/akashpawar43/epic-games-clone.git
-        cd epic-clone
+```
+    https://github.com/akashpawar43/epic-games-clone.git
+    cd epic-clone
+```
+
 <p>2. cd Server</p>
 
 <p>3. Install dependencies for Server</p>
