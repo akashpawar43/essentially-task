@@ -63,8 +63,7 @@ npm run dev
 
 <h2>Project Screenshots:</h2>
 
-1. Login
+1. Fetching Stocks
 <img src="https://github.com/akashpawar43/essentially-task/blob/master/client/public/website1.png" alt="project-screenshot" >
 
-2. Register
 <img src="https://github.com/akashpawar43/essentially-task/blob/master/client/public/website2.png" alt="project-screenshot" >
